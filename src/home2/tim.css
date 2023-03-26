@@ -1,0 +1,35 @@
+.tim-container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+    gap: 50px;
+    padding-bottom: 100px;
+    flex-wrap: wrap;
+}
+.judul-tim h1{
+    padding-top: 120px;
+    padding-bottom: 60px;
+    color: rgb(252, 0, 126);
+}
+
+.profile-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25%;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.504);
+    border-radius: 30px;
+    gap: 20px;
+    padding: 20px 10px;
+}
+
+.profile-card img{
+    width: 70%;
+    
+}
+
+.profile-card h3{
+    color: black;
+    font-size: 20px;
+}

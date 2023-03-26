@@ -1,0 +1,42 @@
+.sosmed-container {
+    width: 100%;
+    padding: 0 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: rgb(256, 0, 126);
+}
+
+.sosmed-container h2 {
+    text-align: center;
+}
+
+.sosmed-row {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+
+.sosmed-row .text-sosmed {
+    text-align: right;
+    border-right: 3px solid rgb(256, 0, 126);
+    padding-right: 30px;
+    width: 40%;
+}
+
+.sosmed {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    width: 40%;
+}
+
+.sosmed ul {
+    list-style: none;
+    align-items: center;
+}
+
+#icon1 {
+    font-size: 25px;
+}

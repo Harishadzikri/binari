@@ -1,0 +1,120 @@
+.card-container {
+  margin-top: 80px;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  align-content: space-between;
+}
+
+.card-container h2{
+  text-align: center;
+}
+
+#visi p{
+  margin-top: 30px;
+}
+
+.card {
+  width: 40%;
+  margin: 30px;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: #f3f5f7;
+  color: #171717;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-title{
+  color:rgb(252, 0, 126);
+}
+
+
+
+.card ul {
+  padding: 20px;
+}
+
+.college-ecosystem {
+  display: flex;
+  padding: 30px;
+  background-image: url("https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #f3f5f7;
+}
+
+.contents {
+  padding: 0;
+  color: #f3f5f7;
+  text-align: center;
+  background-color: rgba(35, 54, 103, 0.7);
+}
+
+
+.section-card {
+  display: flex;
+}
+
+.section-card img {
+  padding-right: 10px;
+  float: left;
+  width: 80px;
+  height: 80px;
+}
+
+.contents ol {
+  text-align: left;
+  padding: 40px;
+}
+
+.college-funding {
+  display: flex;
+  padding: 30px;
+  align-items: stretch;
+}
+
+.funding-section-left {
+  background-image: url("https://image.freepik.com/free-vector/indian-rupee-investment-concept_23-2147995890.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.funding-section-right {
+  background-color: #203662;
+  color: #f3f5f7;
+  text-align: center;
+}
+
+.funding-section-right ol {
+  text-align: left;
+  padding: 60px;
+}
+
+.fund-ultilization {
+  text-align: center;
+}
+
+.fund-card {
+  display: flex;
+  text-align: left;
+
+}
+
+.fund-card h3 {
+  padding-top: 20px;
+  font-weight: 400;
+}
+
+.fund-card img {
+  padding-right: 10px;
+  float: left;
+  width: 80px;
+  height: 80px;
+}
+
+
+
+
+

@@ -1,0 +1,45 @@
+.atas-program5{
+    background-image:url('../img/lab5.png');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+    background-position: center;
+    
+    
+}
+
+
+
+   
+   .isi-program5 h1{
+    padding-top: 610px;   
+    color: rgb(252, 0, 126);
+    text-align: center;
+    font-size: 50px;
+   }
+   
+  
+   .isi2-program5 h2{
+    color: grey;
+    text-align: center;
+    justify-content: center;
+    padding: 0 200px;
+    padding-top: 70px;
+   }
+   .isi3-program5{
+    padding: 0 200px;
+   
+    
+   }
+
+   .isi3-program5 h3{
+    color: black;
+
+   }
+
+   .isi3-program5 {
+    margin-top: 50px;
+   }
+   

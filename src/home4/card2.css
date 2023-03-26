@@ -1,0 +1,19 @@
+.judul-card3{
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.judul-card3 h1{
+    color:  rgb(252, 0, 126);
+}
+
+.judul-card3 h3{
+    font-style: italic;
+    color: grey;
+}
+
+@import url("https://pro.fontawesome.com/releases/v6.0.0-beta1/css/all.css");
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:wght@300;500;700&display=swap");
+
+
+

@@ -1,0 +1,23 @@
+.atas-lanjut{
+    background-color: rgb(252, 0, 126);;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.atas-lanjut h3{
+    padding-top: 120px;   
+    color: rgb(255, 255, 255);
+    text-align: center;
+   }
+   
+   .atas-lanjut h1{
+    padding-top: 120px;   
+    color: rgb(255, 255, 255);
+    text-align: center;
+   }
+ 

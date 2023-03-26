@@ -1,0 +1,22 @@
+thead {
+    background-color: pink;
+}
+
+.crud {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+th, tr {
+    padding: 10px 100px;
+    text-align: center;
+    border: 1px;
+    border-color: black;
+}
+
+th{
+    color:  white;
+    background-color: rgb(252, 0, 126);
+    
+}
